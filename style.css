@@ -1,0 +1,7 @@
+h3 .yt-formatted-string {
+	white-space: normal !important;
+}
+#video-title, .yt-simple-endpoint {
+	-webkit-line-clamp: 10 !important;
+	max-height: none !important;
+}
