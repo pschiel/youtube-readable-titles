@@ -1,4 +1,4 @@
-h3 .yt-formatted-string {
+h3 .yt-formatted-string, yt-formatted-string[ellipsis-truncate] {
 	white-space: normal !important;
 }
 #video-title, .yt-simple-endpoint {
